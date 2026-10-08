@@ -1,0 +1,12 @@
+# Python virtual environment (reinstall with requirements.txt)
+venv/
+
+# Captured images (the dataset lives on the Mac)
+captures/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary file capture.py writes before renaming to latest.jpg
+*.tmp
